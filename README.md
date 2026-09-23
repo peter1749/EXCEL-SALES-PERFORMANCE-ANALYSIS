@@ -8,6 +8,10 @@ profitability, costs, discounts, and overall business performance.
 
 ![Sales Performance Dashboard](dashboard.png)
 
+![Sales Performance Dashboard](Dashboard2.png)
+
+
+
 ## Objectives
 - Clean and prepare sales data for analysis
 - Analyze sales performance across different dimensions
