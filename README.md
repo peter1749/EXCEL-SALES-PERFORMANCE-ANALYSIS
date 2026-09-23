@@ -4,6 +4,10 @@
 This project analyzes sales data using Microsoft Excel to evaluate sales,
 profitability, costs, discounts, and overall business performance.
 
+## Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png)
+
 ## Objectives
 - Clean and prepare sales data for analysis
 - Analyze sales performance across different dimensions
